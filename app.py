@@ -27,8 +27,8 @@ def search_page():
 
 
 @app.route(f'{IMAGES_FOLDER}<path:path>')
-def download(path):
-    return send_from_directory(app.config['IMAGES_FOLDER'], path)
+def img_dir(path):
+    return send_from_directory(IMAGES_FOLDER, path)
 
 
 app.run(debug=True, port=5001)
