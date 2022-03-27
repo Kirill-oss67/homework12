@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Добавить пост</title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+<main>
+
+    <a href="index.html" class="link">Назад</a>
+
+    <h1>Добавить пост</h1>
+
+    <form action="post_uploaded.html" method="POST" enctype="multipart/form-data">
+        <p>Картинка к посту</p>
+        <div>
+            <input type="file" name="picture">
+        </div>
+        <p>Текст к посту</p>
+        <div>
+            <textarea name="content" rows="5" ></textarea>
+        </div>
+
+        <div>
+            <input type="submit" value="Добавить" class="button">
+        </div>
+    </form>
+
+
+</main>
+</body>
+</html>
