@@ -1,0 +1,219 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:17:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:17:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:17:59] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:17:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:18:07] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:18:07] "[33mGET /uploads/images/1222222222.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:18:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:20:08] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:20:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:22:59] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:22:59] "[33mGET /uploads/images/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:22:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:28:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:28:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:28:14] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:28:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:28:17] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:28:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:28:22] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:28:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:28:22] "[35m[1mGET /uploads/images/1222222222.jpg HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:34:35] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:34:37] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:34:37] "[35m[1mGET /uploads/images/1222222222.jpg HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:34:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:44:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:44:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:44:16] "GET /search?s=2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:44:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:44:16] "[35m[1mGET /uploads/images/1222222222.jpg HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:44:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:44:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:44:25] "GET /search?s=к HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:44:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:44:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Mar/2022 21:44:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:41:52] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:41:52] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:41:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:41:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:41:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:42:01] "GET /search?s=я HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:42:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:42:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:42:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:42:11] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:42:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:43:16] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:43:16] "[33mGET /uploads/images/1222222222.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:43:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:44:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:44:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:45:07] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:45:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:46:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:46:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:46:11] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:46:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:46:18] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:46:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:46:18] "[33mGET /uploads/images/1222222222.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:08] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:17] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:17] "[33mGET /post1222222222.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:28] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:30] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:34] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:48] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:50:48] "[33mGET /post1222222222.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:52:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:52:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:52:22] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:52:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:52:34] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:52:36] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:52:41] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:52:49] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\loader\\loader.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:54:35] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:54:37] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:54:38] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:54:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:54:40] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:54:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:54:44] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:54:46] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:54:49] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:54:50] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\loader\\loader.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:58:29] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:58:33] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:58:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 14:58:37] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:02:56] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:02:58] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:03:00] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:03:01] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:03:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:03:01] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:03:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:03:04] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:03:05] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:04:00] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:04:01] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:04:01] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:04:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:04:05] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 15:04:06] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\loader\\loader.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)

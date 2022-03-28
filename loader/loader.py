@@ -26,7 +26,7 @@ def page_post():
             content = request.form.get("content")
             picture_path = f"/uploads/images/{filename}"
             json_dump(picture_path, content)
-            return render_template('post_uploaded.html', text=content, img=picture_path)
+            return render_template('post_uploaded.html', text=content, img=f'/post{filename}')
         else:
             return f"<h1> Тип файлов {extension} не поддерживается </h1>"
     except:

@@ -7,7 +7,7 @@ import logging
 logging.basicConfig(filename="basic.log", level=logging.DEBUG)
 
 post_path = "posts.json"
-IMAGES_FOLDER = "/uploads/images/"
+IMAGES_FOLDER = "uploads/images/"
 data = json_load()  # Получаем данные из json файла
 
 app = Flask(__name__)
@@ -26,9 +26,9 @@ def search_page():
         return f"<h1> С таким именем ничего нет </h1>"
 
 
-@app.route(f'{IMAGES_FOLDER}<path:path>')
+@app.route(f'/post/<path:path>')
 def img_dir(path):
     return send_from_directory(IMAGES_FOLDER, path)
 
 
-app.run(debug=True, port=5001)
+app.run(debug=True, port=5005)
