@@ -4,7 +4,7 @@ from functions import search_by_json, json_load
 from loader.loader import loader_blueprint
 import logging
 
-logging.basicConfig(filename="basic.log", level=logging.DEBUG)
+logging.basicConfig(encoding='utf-8', level=logging.INFO)
 
 post_path = "posts.json"
 IMAGES_FOLDER = "./uploads/images/"
@@ -19,6 +19,7 @@ app.register_blueprint(loader_blueprint)
 def search_page():
     try:
         s = request.args.get('s')
+        logging.info(f"Search's phrase is : {s}")
         searched_data = search_by_json(data, s)
         return render_template("post_list.html", search=s, dict_key1=searched_data["pic"],
                                dict_key2=searched_data["content"], )

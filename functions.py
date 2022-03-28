@@ -17,11 +17,17 @@ def json_load(path=post_path):
 
 
 def json_dump(pic, cont):
-    data = json_load()
-    for_append = {"pic": pic, "content": cont}
-    data.append(for_append)
-    with open(post_path, 'w', encoding='UTF-8') as f:
-        json.dump(data, f, indent=4,ensure_ascii=False)
+    try:
+        data = json_load()
+        for_append = {"pic": pic, "content": cont}
+        data.append(for_append)
+        with open(post_path, 'w', encoding='UTF-8') as f:
+            json.dump(data, f, indent=4,ensure_ascii=False)
+    except FileNotFoundError:
+        print("Файл не найден")
+    except JSONDecodeError:
+        # Будет выполнено, если файл найден, но не превращается из JSON
+        print("Файл не удается записать")
 
 
 # data = json_load(post_path)
