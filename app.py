@@ -7,7 +7,7 @@ import logging
 logging.basicConfig(filename="basic.log", level=logging.DEBUG)
 
 post_path = "posts.json"
-IMAGES_FOLDER = "uploads/images/"
+IMAGES_FOLDER = "./uploads/images/"
 data = json_load()  # Получаем данные из json файла
 
 app = Flask(__name__)
