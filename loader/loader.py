@@ -26,7 +26,7 @@ def page_post():
         # Сохраняем картинку под родным именем в папку uploads
         picture.save(f"./uploads/images/{filename}")
         content = request.form.get("content")
-        picture_path = f"/uploads/images/{filename}"
+        picture_path = f"/post/{filename}"
         json_dump(picture_path, content)
         return render_template('post_uploaded.html', text=content, img=f'/post/{filename}')
     else:

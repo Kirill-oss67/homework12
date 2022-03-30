@@ -34,6 +34,8 @@ def json_dump(pic, cont):
 
 
 def search_by_json(json_data, string_):
+    content = []
     for i in json_data:
         if string_ in i['content']:
-            return i
+            content.append(i)
+    return content

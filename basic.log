@@ -318,3 +318,481 @@ INFO:werkzeug: * Debugger PIN: 837-231-139
 INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
 INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\functions.py', reloading
 INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 17:56:06] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 17:56:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:57:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:57:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:57:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : 
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:57:34] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:57:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : а
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:57:55] "GET /search?s=а HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:57:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:57:58] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:57:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : кот
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:59:16] "GET /search?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:59:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:59:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:59:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:59:27] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:59:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 22:59:59] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:00:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:00:00] "GET /post/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:00:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:00:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : владлен
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:00:13] "GET /search?s=владлен HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:00:39] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:00:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:00:55] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:00:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:00:55] "GET /post/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:00:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:00:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : владлен
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:01:06] "GET /search?s=владлен HTTP/1.1" 200 -
+INFO:root:Search's phrase is : вла
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:02:49] "GET /search?s=вла HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : вла
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:41] "GET /search?s=вла HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:41] "[33mGET /uploads/images/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:49] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:53] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:54] "GET /post/1222222222.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : 111
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:58] "[35m[1mGET /search?s=111 HTTP/1.1[0m" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 307, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\flask\app.py", line 2091, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\flask\app.py", line 2076, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\app.py", line 23, in search_page
+    return render_template("post_list.html", search=s, dict_key1=searched_data["pic"],
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\werkzeug\serving.py", line 324, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\werkzeug\serving.py", line 315, in execute
+    for data in application_iter:
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 349, in debug_application
+    traceback.log(environ["wsgi.errors"])
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\werkzeug\debug\tbtools.py", line 267, in log
+    logfile.write(tb)
+OSError: [Errno 22] Invalid argument
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:58] "GET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:58] "GET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:58] "GET /search?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:58] "GET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:03:58] "GET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:root:Search's phrase is : 111
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:01] "[35m[1mGET /search?s=111 HTTP/1.1[0m" 500 -
+ERROR:werkzeug:Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 307, in debug_application
+    app_iter = self.app(environ, start_response)
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\flask\app.py", line 2091, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\flask\app.py", line 2076, in wsgi_app
+    response = self.handle_exception(e)
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\flask\app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\flask\app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\app.py", line 23, in search_page
+    return render_template("post_list.html", search=s, dict_key1=searched_data["pic"],
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\werkzeug\serving.py", line 324, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\werkzeug\serving.py", line 315, in execute
+    for data in application_iter:
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\werkzeug\debug\__init__.py", line 349, in debug_application
+    traceback.log(environ["wsgi.errors"])
+  File "C:\Users\Марина\Desktop\lesson12_project_source_v3-master\venv\Lib\site-packages\werkzeug\debug\tbtools.py", line 267, in log
+    logfile.write(tb)
+OSError: [Errno 22] Invalid argument
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:01] "GET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:01] "GET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:01] "GET /search?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:01] "GET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:root:Search's phrase is : а
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:12] "GET /search?s=а HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : 1
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:27] "GET /search?s=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : вл
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:33] "GET /search?s=вл HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:33] "[33mGET /uploads/images/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:04:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:09:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:09:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : ф
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:09:59] "GET /search?s=ф HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:09:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:10:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:10:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : х
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:10:13] "GET /search?s=х HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:10:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:10:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:10:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : вв
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:10:18] "GET /search?s=вв HTTP/1.1" 200 -
+INFO:root:Search's phrase is : вл
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:10:24] "GET /search?s=вл HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:10:24] "[33mGET /uploads/images/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:10:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : 1
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:11:18] "GET /search?s=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:11:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:11:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:11:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : 111
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:16:42] "GET /search?s=111 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:16:42] "[33mGET /uploads/images/1222222222.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:16:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\loader\\loader.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:38:49] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:38:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:38:57] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:38:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:38:58] "GET /post/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : ки
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:02] "GET /search?s=ки HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:06] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:15] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:15] "GET /post/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:18] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : кири
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2022 23:39:23] "GET /search?s=кири HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\loader\\loader.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\loader\\loader.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:30:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:30:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : я
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:30:26] "GET /search?s=я HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:30:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:30:42] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:30:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:36:56] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:36:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:36:56] "GET /post/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : тест
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:03] "GET /search?s=тест HTTP/1.1" 200 -
+INFO:root:Search's phrase is : те
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:21] "GET /search?s=те HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : вла
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:49] "GET /search?s=вла HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:49] "[33mGET /uploads/images/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : т
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:55] "GET /search?s=т HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : тес
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:59] "GET /search?s=тес HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:37:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:38:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:38:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : тест
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:38:08] "GET /search?s=тест HTTP/1.1" 200 -
+INFO:root:Search's phrase is : тест
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:39:22] "GET /search?s=тест HTTP/1.1" 200 -
+INFO:root:Search's phrase is : В
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:41:42] "GET /search?s=В HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:41:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : Владлен
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:41:50] "GET /search?s=Владлен HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:42:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:42:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : владлен
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:42:03] "GET /search?s=Владлен HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:42:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:42:03] "[33mGET /uploads/images/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:42:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:42:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : владлен
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:42:51] "GET /search?s=Владлен HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:42:51] "[33mGET /uploads/images/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:42:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:46:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:46:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:46:12] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:46:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:46:20] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:46:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:46:20] "GET /post/1222222222.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:47:00] "[33mGET /uploads/images/1222222222.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Debugger PIN: 837-231-139
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:48:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:48:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:48:41] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:48:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:48:48] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:48:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:48:48] "[33mGET /post/1222222222.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:52:34] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:52:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:52:34] "GET /post/1222222222.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:52:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:52:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : владлен
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:52:47] "GET /search?s=владлен HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:52:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:52:48] "GET /uploads/images/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:54:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:54:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : ки
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:54:50] "GET /search?s=ки HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:54:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:54:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:54:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:57:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:57:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:57:27] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:57:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:58:01] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:58:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:58:01] "GET /post/1222222222.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:58:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:58:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : 123
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:58:06] "GET /search?s=123 HTTP/1.1" 200 -
+INFO:root:Search's phrase is : 123 
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:58:12] "GET /search?s=123+ HTTP/1.1" 200 -
+INFO:root:Search's phrase is : 123 а
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:58:16] "GET /search?s=123+а HTTP/1.1" 200 -
+INFO:root:Search's phrase is : а
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:58:25] "GET /search?s=а HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 16:58:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:root:Search's phrase is : а
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:07:01] "GET /search?s=а HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:07:01] "[33mGET /uploads/images/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:07:01] "[33mGET /uploads/images/1222222222.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:07:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:07:02] "[36mGET /post/1222222222.jpg HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : 1
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:07:56] "GET /search?s=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:07:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:07:56] "[33mGET /uploads/images/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:07:56] "[33mGET /uploads/images/1222222222.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:07:56] "[36mGET /post/1222222222.jpg HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : 1
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:01] "GET /search?s=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:01] "[33mGET /uploads/images/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:01] "[33mGET /uploads/images/1222222222.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:01] "[36mGET /post/1222222222.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : 1
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:11] "GET /search?s=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:11] "[33mGET /uploads/images/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:11] "[33mGET /uploads/images/1222222222.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:11] "[36mGET /post/1222222222.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:root:Search's phrase is : 1
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:27] "GET /search?s=1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:34] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:43] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:43] "GET /post/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Search's phrase is : 155
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:47] "GET /search?s=155 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:08:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:root:Search's phrase is : 155
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:09:31] "GET /search?s=155 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:09:32] "[36mGET /post/british-shorthair-cat-breed-stunning-silver-kitten.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:09:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:10:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2022 17:10:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Марина\\Desktop\\lesson12_project_source_v3-master\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 837-231-139
+INFO:werkzeug: * Running on http://127.0.0.1:5005/ (Press CTRL+C to quit)

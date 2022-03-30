@@ -11,13 +11,16 @@
     <a href="/" class="link">Назад</a>
 
     <h1>Посты по запросу : "{{search}}"</h1>
+    {%for i in searched_data %}
+
 
     <div class="post">
-        <img src={{dict_key1}} width="100%" alt="">
-        <p>Описание поста : {{dict_key2}}
+        <img src={{i["pic"]}} width="100%" alt="">
+        <p>Описание поста : {{i["content"]}}
         </p>
     </div>
     <hr>
+    {% endfor %}
     <a href='/post' class="button">Добавить пост</a>
 
 </main>
